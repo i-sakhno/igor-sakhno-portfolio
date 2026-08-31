@@ -48,11 +48,29 @@ Distributed Systems · Microservices · Asynchronous Workflows · Test Architect
 
 ⸻
 
-🎤 Public Speaking
+🎤 Public Speaking & QA Community
 
-Technical presentations and knowledge sharing in the QA community.
+I actively share my experience with the QA community through technical talks, presentations and professional discussions.
 
-Conference photos and presentations will be added here.
+Conference Talks
+
+[TestTrend] — [Python Playwright Freamwork from Scrach]
+
+Presented a technical talk focused on [topic].
+
+🔗 [[LinkedIn post / conference publication](https://www.linkedin.com/posts/korona-belarus_%D0%B2%D1%81%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-18-%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F-%D0%B2-%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B5-%D1%81%D0%BE%D1%81%D1%82%D0%BE%D0%B8%D1%82%D1%81%D1%8F-activity-7403738027207933952-TCHM?utm_source=share&utm_medium=member_desktop&rcm=ACoAABd5yJ8B-ui5AKqKINoZBe4JE7mRSagQIyk)]
+
+⸻
+
+Community & Professional Content
+
+I also contribute to the QA community through technical posts, discussions and knowledge sharing on LinkedIn.
+
+🔗 [[LinkedIn post]](https://lnkd.in/p/dznABhzz)
+
+🔗 [LinkedIn post]
+
+🔗 [LinkedIn post]
 
 ⸻
 
@@ -72,9 +90,9 @@ A collection of personal and professional engineering projects demonstrating my 
 
 📫 Contact
 
-LinkedIn: Igor Sakhno (https://www.linkedin.com/)
+LinkedIn: Igor Sakhno ([https://www.linkedin.com](https://www.linkedin.com/in/igor-sakhno/)/)
 
-GitHub: igor-sakhno-qa-portfolio (https://github.com/)
+GitHub: igor-sakhno-portfolio ([https://github.com/](https://github.com/i-sakhno))
 
 ⸻
 
