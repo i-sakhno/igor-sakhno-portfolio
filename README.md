@@ -56,9 +56,9 @@ Conference Talks
 
 [TestTrend] — [Python Playwright Freamwork from Scrach]
 
-Presented a technical talk focused on [topic].
+Presented a technical talk focused on .
 
-🔗 [[LinkedIn post / conference publication](https://www.linkedin.com/posts/korona-belarus_%D0%B2%D1%81%D0%B5%D0%BC-%D0%BF%D1%80%D0%B8%D0%B2%D0%B5%D1%82-18-%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F-%D0%B2-%D0%BC%D0%B8%D0%BD%D1%81%D0%BA%D0%B5-%D1%81%D0%BE%D1%81%D1%82%D0%BE%D0%B8%D1%82%D1%81%D1%8F-activity-7403738027207933952-TCHM?utm_source=share&utm_medium=member_desktop&rcm=ACoAABd5yJ8B-ui5AKqKINoZBe4JE7mRSagQIyk)]
+LinledIn: https://lnkd.in/p/dnmjwWx7 , https://lnkd.in/p/dznABhzz
 
 ⸻
 
