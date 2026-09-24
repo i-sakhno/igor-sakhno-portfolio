@@ -112,7 +112,7 @@ Some moments from my technical talks and QA community activities.
 
 ## 🚀 Selected Projects
 
-### Telegram Bot Platform
+### Telegram Bots Platform
 
 A collection of Python-based Telegram bots demonstrating
 backend development, API integrations, database design and
