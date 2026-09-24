@@ -100,6 +100,15 @@ test automation framework from scratch.
 
 ---
 
+### 📸 Conference Highlights
+
+Some moments from my technical talks and QA community activities.
+
+<p align="center">
+  <img src="./media/port_1.jpg" width="45%" />
+  <img src="./media/conference-02.jpg" width="45%" />
+</p>
+
 ## 🚀 Selected Projects
 
 ### Telegram Bot Platform
@@ -108,7 +117,7 @@ A collection of Python-based Telegram bots demonstrating
 backend development, API integrations, database design and
 automation-oriented engineering practices.
 
-[View project →](./projects/telegram-bots.md)
+[View project →](./projects/telegram-bot.md)
 
 ### Raspberry Pi HomeLab
 
