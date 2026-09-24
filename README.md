@@ -119,6 +119,7 @@ backend development, API integrations, database design and
 automation-oriented engineering practices.
 
 [View project →](./projects/telegram-bot.md)
+[View project →](./projects/telegram-bot.md)
 
 ### Raspberry Pi HomeLab
 
