@@ -106,7 +106,8 @@ Some moments from my technical talks and QA community activities.
 
 <p align="center">
   <img src="./media/port_1.jpg" width="45%" />
-  <img src="./media/conference-02.jpg" width="45%" />
+  <img src="./media/port_2.jpg" width="45%" />
+  <img src="./media/port_3.jpg" width="45%" />
 </p>
 
 ## 🚀 Selected Projects
