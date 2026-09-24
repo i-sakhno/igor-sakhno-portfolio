@@ -118,21 +118,23 @@ A collection of Python-based Telegram bots demonstrating
 backend development, API integrations, database design and
 automation-oriented engineering practices.
 
-[View project →](./projects/telegram-bot.md)
+[View project details→](./projects/telegram-bot.md)
+
 
 ### Raspberry Pi HomeLab
 
 A personal infrastructure project focused on self-hosting,
 Docker, networking, monitoring and automation.
 
-[View project →](./projects/raspberry-homelab.md)
+[View project details→](./projects/raspberry-homelab.md)
+[View project →](https://github.com/i-sakhno/raspberry-homelab)
 
 ### AI Testing
 
 Experiments and practical work related to testing
 AI-powered and LLM-based systems.
 
-[View project →](./projects/ai-testing.md)
+[View project details→](./projects/ai-testing.md)
 
 
 ## 📫 Contact
